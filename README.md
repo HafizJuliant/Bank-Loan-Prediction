@@ -4,3 +4,6 @@ This project aims to predict whether a customer's loan application will be appro
 
 ## Dataset 
 https://www.kaggle.com/datasets/ninzaami/loan-predication
+
+## Deployment
+https://huggingface.co/spaces/hafizjuliant/Loan_Status_Prediction
